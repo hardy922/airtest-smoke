@@ -1,0 +1,4 @@
+airtest==1.2.10
+coloredlogs==15.0.1
+pocoui==1.0.88
+Requests==2.30.0
