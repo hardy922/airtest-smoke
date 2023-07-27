@@ -3,7 +3,7 @@
 ```
 
 ├─air_test
-│  ├─android    手游
+│  ├─android    移动端
 │  │  ├─cases       测试脚本
 │  │  │
 │  │  ├─driver      设备通信
